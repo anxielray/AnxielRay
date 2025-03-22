@@ -21,7 +21,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=chainlink&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)   --><br><br>
 
-<hr style="height:1px; border:none; background-color:#bbb; opacity:0.5;">
-<!-- <hr style="height:1px; width:60%; border:none; background-color:#ddd; opacity:0.4;"> -->
+<hr style="height:1px; border:none; background-color:#bbb; opacity:0.3;">
 
 ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true)
