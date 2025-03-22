@@ -28,4 +28,4 @@
 
 ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
 
-![GitHub Snake](https://github.com/anxielray/AnxielRay/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/anxielray/anxielray/blob/output/github-contribution-grid-snake.svg)
