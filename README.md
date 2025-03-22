@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="" height="100" top="14px" left="7px">
+
 # 🧠 Anxiel Ray
 
 **`A Numerical, Detailed and Technological mind (AI Developer/Mathematician/Artist/Innovator/Full-stack Engineer)`**
@@ -25,3 +27,4 @@
 <hr style="height:1px; border:none; background-color:#bbb; opacity:0.3;">
 
 ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
+
