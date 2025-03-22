@@ -3,6 +3,7 @@
 **`A Numerical, Detailed and Technological mind (AI Developer/Mathematician/Artist/Innovator/Full-stack Engineer)`**
 
 🚀 _I'm an indie AI developer and full-stack engineer, building my version of intelligent digital solutions one step at a time. As I embark on this journey, I explore AI, robotics, and backend systems, crafting tools that bridge innovation and real-world applications. From foundational learning to hands-on experimentation, I strive to solve problems with AI-driven approaches._
+
 <h2>🧰 Language and Tools</h2>
 
 <img align="left" alt="Java" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,4 +24,4 @@
 
 <hr style="height:1px; border:none; background-color:#bbb; opacity:0.3;">
 
-![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true)
+![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
