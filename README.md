@@ -30,4 +30,4 @@
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=anxielray&theme=darkhub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxielray&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxielray&layout=compact&theme=vision-friendly-dark)   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
