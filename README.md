@@ -6,6 +6,8 @@
 
 🚀 _I'm an indie AI developer and full-stack engineer, building my version of intelligent digital solutions one step at a time. As I embark on this journey, I explore AI, robotics, and backend systems, crafting tools that bridge innovation and real-world applications. From foundational learning to hands-on experimentation, I strive to solve problems with AI-driven approaches._
 
+![Visitors](https://komarev.com/ghpvc/?username=anxielray&color=blue)
+
 <h2>🧰 Language and Tools</h2>
 
 <img align="left" alt="Java" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -30,4 +32,7 @@
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=anxielray&theme=darkhub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxielray&layout=compact&theme=vision-friendly-dark)   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxielray&layout=compact&theme=vision-friendly-dark)  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+⏳ **Last Updated:**  
+![Live Coding Timer](https://raw.githubusercontent.com/anxielray/anxielray/main/coding_timer.txt)
