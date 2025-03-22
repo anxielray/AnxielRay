@@ -3,15 +3,8 @@
 **`A Numerical, Detailed and Technological mind (AI Developer/Mathematician/Artist/Innovator/Full-stack Engineer)`**
 
 🚀 _I'm an indie AI developer and full-stack engineer, building my version of intelligent digital solutions one step at a time. As I embark on this journey, I explore AI, robotics, and backend systems, crafting tools that bridge innovation and real-world applications. From foundational learning to hands-on experimentation, I strive to solve problems with AI-driven approaches._
+<h2>🧰 Language and Tools</h2>
 
-<p align="left">
-    <a href="https://github.com/anxielray?tab=repositories$sort=stargazers" >
-        <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/anxielray?color=55960c&style=for-the-badgelableColor=488207&logo-star" />
-    </a>
-</p>
-
-
-## 🧰 Language and Tools
 <img align="left" alt="Java" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="60px" style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 <img align="left" alt="java" width="40px" style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
@@ -28,7 +21,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=chainlink&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)   -->
 
-<hr/>
+<hr style="height:1px; border:none; background-color:#bbb; opacity:0.5;">
+<!-- <hr style="height:1px; width:60%; border:none; background-color:#ddd; opacity:0.4;"> -->
 
 ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true)
-
