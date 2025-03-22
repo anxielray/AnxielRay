@@ -26,6 +26,5 @@
 
 <hr style="height:1px; border:none; background-color:#bbb; opacity:0.3;">
 
-![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
+![GitHub Streak](https://streak-stats.demolab.com?user=anxielray&theme=dark&hide_border=true) ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
 
-![GitHub Snake](https://github.com/anxielray/anxielray/blob/output/github-contribution-grid-snake.svg)
