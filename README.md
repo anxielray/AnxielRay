@@ -28,4 +28,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anxielray&theme=dark&hide_border=true) ![Anxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=3)
 
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=anxielray&theme=darkhub)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxielray&layout=compact&theme=vision-friendly-dark)
