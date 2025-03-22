@@ -19,7 +19,7 @@
 <img align="left" width="100px"  color="white" style="margin: 15px;" src="https://img.shields.io/badge/OpenAI-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" style="filter: invert(1);" alt="OpenAI Logo">
 <!-- <img align="left" alt="Java" width="160px" style="margin: 10px" src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
 ![LangChain](https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=chainlink&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)   -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)   --><br><br>
 
 <hr style="height:1px; border:none; background-color:#bbb; opacity:0.5;">
 <!-- <hr style="height:1px; width:60%; border:none; background-color:#ddd; opacity:0.4;"> -->
