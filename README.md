@@ -52,3 +52,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/anxielray/anxielray/main/coding_timer.txt" alt="Live Coding Timer" />
 </p>
+
+## Certification
+
+- _HP certificate for the completion of the short course of Introduction to Artificial Intelligence_
+
+[HP certificate for Raymond Martin](certificate.pdf)
