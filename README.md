@@ -30,8 +30,8 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anxielray&theme=dark&hide_border=true&v=8" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=8" alt="Anxiel's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=anxielray&theme=dark&hide_border=true&v=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anxielray&theme=vision-friendly-dark&show_icons=true&v=10" alt="Anxiel's GitHub Stats" />
 </p>
 
 <p align="center">
